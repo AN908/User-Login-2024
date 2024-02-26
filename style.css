@@ -1,0 +1,53 @@
+html {
+  background: url(images/background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+body {
+  background: rgba(255, 255, 255, 0.8);
+  margin: auto;
+  text-align: center;
+  border: 2px solid purple;
+  border-radius: 10px;
+  width: 600px;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+}
+
+#passwordcontainer {
+  background-color: purple;
+  padding: 20px 100px;
+  color: white;
+  width: 400px;
+  margin: auto;
+}
+
+input {
+  border: 1px solid gray;
+}
+
+#LOGINBUTTON {
+  background-color: green;
+  color: white;
+  border: 1px solid white;
+  padding: 10px 20px;
+  font-size: 20px;
+}
+
+a {
+  font-style: italic;
+  font-weight: 400;
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  color: yellow;
+  text-decoration: underline;
+}
+
+img {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
